@@ -1,6 +1,7 @@
 {
     "name": "arun-karthick-yash/sample-world-package",
     "description": "A hello world composer private package.",
+    "license": "MIT",
     "autoload": {
         "psr-4": {
             "arun-karthick-yash\\SampleWorldPackage\\": "src/"
