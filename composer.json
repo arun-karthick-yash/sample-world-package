@@ -1,0 +1,11 @@
+{
+    "name": "arun-karthick-yash/sample-world-package",
+    "description": "A hello world composer private package.",
+    "autoload": {
+        "psr-4": {
+            "arun-karthick-yash\\SampleWorldPackage\\": "src/"
+        }
+    },
+    "minimum-stability": "dev",
+    "prefer-stable": true
+}
